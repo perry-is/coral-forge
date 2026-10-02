@@ -1,4 +1,4 @@
-# Source review and clean-room boundary
+# How the public version was made
 
 ## Source project reviewed
 
@@ -23,6 +23,6 @@ The source project reviewed was the private Coral Forge checkout. Its `pyproject
 
 ## Repository inspection
 
-The source repository was reviewed for its package metadata, README and architecture notes, core control-flow components, sandbox policy/broker, provider implementations, tests and fixtures, ignore rules, and tracked file inventory. The source tree was clean when inspected. Its package metadata, runtime integrations, and full test suite are not included here.
+The source repository was reviewed for its package metadata, README and architecture notes, core control-flow components, sandbox policy/broker, provider implementations, tests and fixtures, ignore rules, and tracked file inventory. Its package metadata, runtime integrations, and full test suite are not included here.
 
-The clean-room implementation contains one synthetic scenario, its synthetic unit tests, focused workflow/receipt tests, and documentation written for this edition. No source repository history is present in this directory.
+The public implementation contains one synthetic scenario, its synthetic unit tests, focused workflow/receipt tests, and documentation written for this edition. No source repository history is present in this directory.

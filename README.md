@@ -2,7 +2,7 @@
 
 **How to let an AI coding agent change code without just taking its word that it worked.**
 
-`Status: teaching demo of a pattern from my private agent experiments · the "agent" is scripted · Python · 6 tests`
+`Status: experimental demonstration of a pattern from my private agent experiments · the "agent" is scripted · Python · 6 tests`
 
 ---
 
